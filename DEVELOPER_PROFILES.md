@@ -23,3 +23,11 @@
 - Tools: VS Code, Github Desktop, Canva
 - Field of Focus in Computer Science: Mechatronics, Web Development, Software Engineering, Game Design
 - Goal for This Semester: To improve on team skills, especially for software development and improve programming skills.
+
+## Angel Mae T. Carreon
+
+- Preferred Name: Jel Carreon
+- Skills: Python, C, Java, HTML, CSS, JavaScript, PHP
+- Tools: VS Code, GitHub, Canva
+- Field of Focus in Computer Science: Web and Mobile Development, UI/UX Design, Software Engineering, Cybersecurity
+- Goal for This Semester: To be more confident and skilled in collaborative programming.

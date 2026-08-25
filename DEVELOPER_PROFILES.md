@@ -23,3 +23,11 @@
 - Tools: VS Code, Github Desktop, Canva
 - Field of Focus in Computer Science: Mechatronics, Web Development, Software Engineering, Game Design
 - Goal for This Semester: To improve on team skills, especially for software development and improve programming skills.
+
+## Edriellen Mey G. Cambel
+
+- Preferred Name: Ed
+- Skills: HTML, CSS, JavaScript, C, Java, Git, React
+- Tools: Figma, VS Code, Github
+- Field of Focus in Computer Science: Front-End Engineering, Software Engineering, Cybersecurity
+- Goal for This Semester: To improve my problem solving and programming skills relating to software engineering.

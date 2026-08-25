@@ -1,9 +1,9 @@
 # Developer Profiles
 
-## Full Name
+## Meka Synova Z. Melicor
 
-- Preferred Name: <name>
-- Skills: <skill 1>, <skill 2>, <skill 3>
-- Tools: <tool 1>, <tool 2>, <tool 3>
-- Field of Focus in Computer Science: <example: Software Engineering, Web Development, Data Science, Networks, Cybersecurity>
-- Goal for This Semester: <one short sentence>
+- Preferred Name: Meka Melicor
+- Skills: HTML, CSS, Python
+- Tools: VS Code, GitHub, Canva
+- Field of Focus in Computer Science: Cybersecurity
+- Goal for This Semester: To learn new stuff and improve my skills.  

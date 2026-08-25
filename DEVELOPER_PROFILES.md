@@ -1,9 +1,9 @@
 # Developer Profiles
 
-## Full Name
+## Marie Toney Fay S. Gelvezon
 
-- Preferred Name: <name>
-- Skills: <skill 1>, <skill 2>, <skill 3>
-- Tools: <tool 1>, <tool 2>, <tool 3>
-- Field of Focus in Computer Science: <example: Software Engineering, Web Development, Data Science, Networks, Cybersecurity>
-- Goal for This Semester: <one short sentence>
+- Preferred Name: Toney Gelvezon
+- Skills: HTML, CSS, JavaScript
+- Tools: VS Code, GitHub, Canva
+- Field of Focus in Computer Science: Web Development, Cybersecurity, Software Engineering
+- Goal for This Semester: To learn more and enhance my skills in programming.

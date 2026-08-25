@@ -31,3 +31,11 @@
 - Tools: Figma, VS Code, Github
 - Field of Focus in Computer Science: Front-End Engineering, Software Engineering, Cybersecurity
 - Goal for This Semester: To improve my problem solving and programming skills relating to software engineering.
+
+## Angel Mae T. Carreon
+
+- Preferred Name: Jel Carreon
+- Skills: Python, C, Java, HTML, CSS, JavaScript, PHP
+- Tools: VS Code, GitHub, Canva
+- Field of Focus in Computer Science: Web and Mobile Development, UI/UX Design, Software Engineering, Cybersecurity
+- Goal for This Semester: To be more confident and skilled in collaborative programming.
